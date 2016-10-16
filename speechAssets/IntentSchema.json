@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+    "intent": "SpaceBall",
+    "slots": [
+    {
+    "name":"Date",
+    "type": "AMAZON.DATE"
+    }
+  ]
+},
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
